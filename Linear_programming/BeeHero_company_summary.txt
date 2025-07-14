@@ -1,0 +1,28 @@
+BeeHero Company Summary:
+
+
+
+Omer Davidi podcast: ceo and co-founder
+- connection to climate
+- Founded in late 2017
+- Focused on almonds originally 
+- Adds technology to areas which can have more efficiency
+- 70-75% of crops depend on pollination 
+- Can’t always depend on wild insects to pollinate, so we bring them in
+- Bees are dying 
+- Seamless integration into existing hives, didn’t ’make a new wheel’
+- Looking into optimal use of sprays/ greenhouses 
+- Most agricultural metrics for output of crop is soil/ weather etc, pollination is another important metric that has not been used enough in the industry 
+- Largest db on bees and pollination in the world 
+- Looking to bring forecasts of how much to sell to market based of eg weather predication and the data in the db above. Not in market yet
+- US and Australia 
+- Possible market: coffee pollination 
+- One benefit they found: two separate frames of hives of bees visits a lot less flowers on average compared to if you put two frames together??? Pollination power stronger together 
+
+
+Talking points interview 
+- My connection to climate 
+- Clarksons farm as a joke, maybe we can approach them?? We would get known 
+- Talk about progression to data science etc
+- How many bees do you lose? Death/ don’t come back to hive? You measure this?
+- Explanation of 2 separate frames vs together
