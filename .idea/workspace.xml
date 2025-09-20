@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="sigmoid">
-      <change afterPath="$PROJECT_DIR$/whatsapp_bot/wpp_bot/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp_bot/wpp_bot/source/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp_bot/wpp_bot/source/send_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Data-Scientist-Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data-Scientist-Learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="initial run with validation error">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756909187803</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="initial run with validation error">
+      <option name="closed" value="true" />
+      <created>1757679681601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757679681602</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +156,8 @@
     <MESSAGE value="bee hero assign" />
     <MESSAGE value="delete bad notes" />
     <MESSAGE value="sigmoid" />
-    <option name="LAST_COMMIT_MESSAGE" value="sigmoid" />
+    <MESSAGE value="initial run with validation error" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial run with validation error" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -172,11 +176,6 @@
           <url>file://$PROJECT_DIR$/Scraper/web_scraper.py</url>
           <line>156</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/whatsapp_bot/wpp_bot/source/webhook.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
