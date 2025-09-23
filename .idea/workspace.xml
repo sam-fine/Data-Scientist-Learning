@@ -50,14 +50,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "Python.web_scraper.executor": "Debug",
-    "Python.webhook.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "whatsapp__bot",
-    "last_opened_file_path": "C:/Users/samfi/Documents/cloned_reps/Data-Scientist-Learning",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "git-widget-placeholder": "classification",
+    "last_opened_file_path": "C:/Users/samfi/Documents/cloned_reps/Data-Scientist-Learning"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -158,6 +154,27 @@
     <MESSAGE value="sigmoid" />
     <MESSAGE value="initial run with validation error" />
     <option name="LAST_COMMIT_MESSAGE" value="initial run with validation error" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Scraper/web_scraper.py</url>
+          <line>359</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Scraper/web_scraper.py</url>
+          <line>239</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Scraper/web_scraper.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
