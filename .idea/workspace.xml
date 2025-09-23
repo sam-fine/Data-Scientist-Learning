@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="clean">
-      <change beforePath="$PROJECT_DIR$/Coursera_machine_learning/Advanced_Learning_Algorithms_Neural_Networks_and_Decision_Trees/3_TensorFlow_single_layer_eg/Tensorflow_Neurons_and_Layers_lab.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera_machine_learning/Advanced_Learning_Algorithms_Neural_Networks_and_Decision_Trees/3_TensorFlow_single_layer_eg/Tensorflow_Neurons_and_Layers_lab.ipynb" afterDir="false" />
+    <list default="true" id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="delete bad notes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_machine_learning/Linear_regression_model/4 Linear_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera_machine_learning/Linear_regression_model/4 Linear_Regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="whatsapp_bot" />
+        <entry key="$PROJECT_DIR$" value="delete-scikit-learn-notes" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,14 +41,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "classification",
     "last_opened_file_path": "C:/Users/samfi/Documents/cloned_reps/Data-Scientist-Learning"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;coursera__start&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samfi/Documents/cloned_reps/Data-Scientist-Learning&quot;
+>>>>>>> parent of aa934ad (tensor_flow_start)
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\samfi\Documents\cloned_reps\Data-Scientist-Learning\A_B Testing" />
@@ -120,26 +131,5 @@
     <MESSAGE value="bee hero assign" />
     <MESSAGE value="delete bad notes" />
     <option name="LAST_COMMIT_MESSAGE" value="delete bad notes" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Scraper/web_scraper.py</url>
-          <line>359</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Scraper/web_scraper.py</url>
-          <line>239</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Scraper/web_scraper.py</url>
-          <line>156</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
