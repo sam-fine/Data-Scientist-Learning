@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="initial run with validation error">
+    <list default="true" id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="delete bad notes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_machine_learning/Linear_regression_model/4 Linear_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera_machine_learning/Linear_regression_model/4 Linear_Regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     "git-widget-placeholder": "classification",
     "last_opened_file_path": "C:/Users/samfi/Documents/cloned_reps/Data-Scientist-Learning"
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\samfi\Documents\cloned_reps\Data-Scientist-Learning\A_B Testing" />
@@ -154,27 +155,6 @@
     <MESSAGE value="sigmoid" />
     <MESSAGE value="initial run with validation error" />
     <option name="LAST_COMMIT_MESSAGE" value="initial run with validation error" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Scraper/web_scraper.py</url>
-          <line>359</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Scraper/web_scraper.py</url>
-          <line>239</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Scraper/web_scraper.py</url>
-          <line>156</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
