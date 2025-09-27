@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="clean">
-      <change beforePath="$PROJECT_DIR$/Coursera_machine_learning/Advanced_Learning_Algorithms_Neural_Networks_and_Decision_Trees/3_TensorFlow_single_layer_eg/Tensorflow_Neurons_and_Layers_lab.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera_machine_learning/Advanced_Learning_Algorithms_Neural_Networks_and_Decision_Trees/3_TensorFlow_single_layer_eg/Tensorflow_Neurons_and_Layers_lab.ipynb" afterDir="false" />
+    <list default="true" id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="api">
+      <change beforePath="$PROJECT_DIR$/.idea/Data-Scientist-Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data-Scientist-Learning.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "classification",
+    "git-widget-placeholder": "rest__api__into",
     "last_opened_file_path": "C:/Users/samfi/Documents/cloned_reps/Data-Scientist-Learning"
   }
 }]]></component>
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752503342530</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="api">
+      <option name="closed" value="true" />
+      <created>1758642429102</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758642429102</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,7 +127,8 @@
     <MESSAGE value="project settings" />
     <MESSAGE value="bee hero assign" />
     <MESSAGE value="delete bad notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete bad notes" />
+    <MESSAGE value="api" />
+    <option name="LAST_COMMIT_MESSAGE" value="api" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
