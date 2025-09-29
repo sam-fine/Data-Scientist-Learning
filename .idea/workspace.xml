@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="api">
-      <change beforePath="$PROJECT_DIR$/.idea/Data-Scientist-Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data-Scientist-Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amplitude/Amplitude.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amplitude/optimisation_system.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "rest__api__into",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "amplitude",
     "last_opened_file_path": "C:/Users/samfi/Documents/cloned_reps/Data-Scientist-Learning"
   }
 }]]></component>
