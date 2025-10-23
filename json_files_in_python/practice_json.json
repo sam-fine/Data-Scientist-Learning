@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "age": 28,
+    "city": "London",
+    "skills": ["Python", "SQL", "Excel"]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "age": 34,
+    "city": "Tel Aviv",
+    "skills": ["JavaScript", "React"]
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "age": 25,
+    "city": "New York",
+    "skills": ["Python", "Data Analysis"]
+  }
+]
