@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15b82d51-850a-491e-882b-eae9c75d85b4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="api">
+      <change afterPath="$PROJECT_DIR$/Amplitude/Amplitude.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amplitude/optimisation_system.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +44,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;sorting__algorithms&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samfi/Documents/cloned_reps/Data-Scientist-Learning&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "rest__api__into",
+    "last_opened_file_path": "C:/Users/samfi/Documents/cloned_reps/Data-Scientist-Learning"
   }
 }</component>
   <component name="SharedIndexes">
