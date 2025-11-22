@@ -5,8 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="api">
-      <change afterPath="$PROJECT_DIR$/Amplitude/Amplitude.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amplitude/optimisation_system.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/Coursera_api/django_project/django_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/Coursera_api/vs_code_notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/weather_api_public/WeatherApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/weather_api_public/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/weather_api_public/requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/weather_api_public/weather_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_api/1_HTTP/HTTP_Protocol.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Coursera_api/1_HTTP/HTTP_Protocol.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_api/1_HTTP/HTTP_status_codes.png" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Coursera_api/1_HTTP/HTTP_status_codes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_api/API_Introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Coursera_api/API_Introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_api/django_project/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Coursera_api/django_project/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_api/django_project/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Coursera_api/django_project/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_api/django_project/django_project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Coursera_api/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_api/django_project/django_project/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Coursera_api/django_project/django_project/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_api/django_project/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Coursera_api/django_project/django_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_api/django_project/django_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Coursera_api/django_project/django_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_api/django_project/django_project/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Coursera_api/django_project/django_project/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_api/django_project/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Coursera_api/django_project/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera_api/vs_code_notes" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Coursera_api/django_project/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/Create_REST_API_Django.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/api/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/api/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/api/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/api/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/api/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/api/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/api/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/api/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/api/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/restapi_project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/restapi_project/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/restapi_project/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/restapi_project/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_django/restapi_project/restapi_project/wsgi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +83,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.WeatherApi.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "rest__api__into",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "weatherapi__soliddata",
     "last_opened_file_path": "C:/Users/samfi/Documents/cloned_reps/Data-Scientist-Learning"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samfi\Documents\cloned_reps\Data-Scientist-Learning\APIs\weather_api_public" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,7 +104,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="15b82d51-850a-491e-882b-eae9c75d85b4" name="Changes" comment="" />
+      <changelist id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="api" />
       <created>1760969220891</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
