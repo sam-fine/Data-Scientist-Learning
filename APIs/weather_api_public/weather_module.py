@@ -126,19 +126,16 @@ class FetchWeather:
         parser = argparse.ArgumentParser()
         parser.add_argument("-ip", "--input-path",
                             dest="INPUT_PATH",
-                            help="Full path to input csv",
-                            default=r'C:\Users\samfi\OneDrive\Documents\Interviews_2025\Solid_data_team8\weather_data\example_input.csv')
-                            #required=True)
+                            help="Full path to input csv example: r'C:/Users/example_input.csv'",
+                            required=True)
         parser.add_argument("-sp", "--save-path",
                             dest="SAVE_FILE_BASE_PATH",
-                            help="parent folder that will hold output files",
-                            default=r'C:\Users\samfi\OneDrive\Documents\Interviews_2025\Solid_data_team8\weather_data')
-                            #required=True)
+                            help="parent folder that will hold output files example: r'C:/Users/weather_data'",
+                            required=True)
         parser.add_argument("-apik", "--api-key",
                             dest="API_KEY",
                             help="Personal API Key for Weather API",
-                            default=r'8919aa67c51d4f48a1882658252011')
-                            #required=True)
+                            required=True)
         parser.add_argument("-tu", "--temp-unit",
                             dest="temperature_unit",
                             help="Decide which temperature unit to use",
@@ -146,6 +143,9 @@ class FetchWeather:
                             default='C')
 
         return parser.parse_args()
+
+# command line example
+# python weather_module.py -ip "C:\Users\example_input.csv" -sp "C:\Users\weather_data" -apik "abcde" -tu "k"
 
 
 
