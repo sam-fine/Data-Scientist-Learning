@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4808ff71-6379-4648-8ba8-0efefe864223" name="Changes" comment="api">
-      <change afterPath="$PROJECT_DIR$/Amplitude/Amplitude.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amplitude/optimisation_system.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantasy_football/new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantasy_football/predictor.py" beforeDir="false" afterPath="$PROJECT_DIR$/fantasy_football/predictor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="weather_api_detailed_functions" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -47,8 +53,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.new.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "rest__api__into",
+    "git-widget-placeholder": "fantasy__football__scraper",
     "last_opened_file_path": "C:/Users/samfi/Documents/cloned_reps/Data-Scientist-Learning"
   }
 }]]></component>
@@ -68,5 +75,26 @@
       <updated>1760969220891</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mobileye/Focus_script.py</url>
+          <line>186</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fantasy_football/predictor.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="players" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
